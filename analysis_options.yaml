@@ -1,0 +1,7 @@
+analyzer:
+  errors:
+    missing_required_param: warning
+
+linter:
+  rules:
+    - require_trailing_commas
